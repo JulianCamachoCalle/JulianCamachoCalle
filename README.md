@@ -1,32 +1,30 @@
-![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
-
-<h1 align="center">Hi!,  I'm Al-Amin <img src=
+<h1 align="center">Hi!,  I'm Julian <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Web+Designer)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+I’m Julian, a student and tech enthusiast with a deep passion for software development. Driven by curiosity and a love for challenges, I embrace the fast-paced world of technology. With a strong focus on collaboration and community support, I aim to inspire others to reach beyond their limits and strive for excellence.
 
 <br>
 
   
 
 
- -  🔭 I’m currently working on something cool 😉
+ -  🔭 Currently focused on exciting and challenging projects. 😉
 
-- 👯 I’m looking forward to collaborate on python projects.
+-  👨‍💻 Learning new programming languages to expand my skill set.
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+-  💡 Always on the lookout for creative ideas for future projects.
 
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 💬 Ask me anything! I’m happy to help, as long as it’s in my court. 😉
 
 
 <br>
